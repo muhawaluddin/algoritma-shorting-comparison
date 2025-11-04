@@ -77,11 +77,5 @@ python3 simple-app-noskip.py
 ```
 
 ### Struktur Project
-sorting-comparison/
-├── 📄 app-fullcomparison-nskip.py            # Program utama tanpa skip algoritma yang berat
-├── 📄 app-fullcomparison-skip.py             # Program utama skip algoritma yang berat  
-├── 📄 app.py                                 # Implementasi dengan slack (opsional)
-├── 📁 templates/                             # Folder template (jika menggunakan slack)
-│   └── 📄 index.html                         # Template web
-└── 📁 results/                               # Hasil export
-    └── 📄 full_sorting_comparison.txt
+
+![alt text](image.png)
