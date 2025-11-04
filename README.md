@@ -71,11 +71,14 @@ Project ini merupakan implementasi dan perbandingan kinerja berbagai algoritma s
 2. **Buka terminal/command prompt**
 3. **Jalankan program utama**:
 
+tanpa skip algoritma yang berat
 ```bash
-python3 simple-app-noskip.py
-
+python3 app-fullcomparison-noskip.py
 ```
-
+lebih cepat, skip algirtama yang berat
+```bash
+python3 app-fullcomparison-kip.py
+```
 ### Struktur Project
 
 ![alt text](image.png)
